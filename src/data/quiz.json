@@ -1,0 +1,110 @@
+[
+  {
+    "id": "q1",
+    "prompt": "How much daily exercise can you commit to?",
+    "options": [
+      { "id": "o1", "label": "Over 2 hours", "weight": 3 },
+      { "id": "o2", "label": "1–2 hours", "weight": 2 },
+      { "id": "o3", "label": "Less than 1 hour", "weight": 1 }
+    ]
+  },
+  {
+    "id": "q2",
+    "prompt": "Do you prefer a low-shedding dog?",
+    "options": [
+      { "id": "o1", "label": "Yes, minimal shedding please", "weight": 3 },
+      { "id": "o2", "label": "Some shedding is fine", "weight": 2 },
+      { "id": "o3", "label": "Doesn’t matter to me", "weight": 1 }
+    ]
+  },
+  {
+    "id": "q3",
+    "prompt": "What size dog are you looking for?",
+    "options": [
+      { "id": "o1", "label": "Small (under 25 lbs)", "weight": 1 },
+      { "id": "o2", "label": "Medium (25–50 lbs)", "weight": 2 },
+      { "id": "o3", "label": "Large (over 50 lbs)", "weight": 3 }
+    ]
+  },
+  {
+    "id": "q4",
+    "prompt": "How important is trainability to you?",
+    "options": [
+      { "id": "o1", "label": "Very important — I want a quick learner", "weight": 3 },
+      { "id": "o2", "label": "Somewhat important", "weight": 2 },
+      { "id": "o3", "label": "Not a big concern", "weight": 1 }
+    ]
+  },
+  {
+    "id": "q5",
+    "prompt": "Do you have young children at home?",
+    "options": [
+      { "id": "o1", "label": "Yes, under 8 years old", "weight": 3 },
+      { "id": "o2", "label": "Yes, but they’re older", "weight": 2 },
+      { "id": "o3", "label": "No children", "weight": 1 }
+    ]
+  },
+  {
+    "id": "q6",
+    "prompt": "How much grooming are you willing to do?",
+    "options": [
+      { "id": "o1", "label": "Daily brushing & regular trims", "weight": 3 },
+      { "id": "o2", "label": "Weekly brushing", "weight": 2 },
+      { "id": "o3", "label": "Minimal grooming", "weight": 1 }
+    ]
+  },
+  {
+    "id": "q7",
+    "prompt": "How much alone time will the dog have during weekdays?",
+    "options": [
+      { "id": "o1", "label": "Rarely alone (someone home most of the day)", "weight": 3 },
+      { "id": "o2", "label": "3–5 hours", "weight": 2 },
+      { "id": "o3", "label": "Over 6 hours", "weight": 1 }
+    ]
+  },
+  {
+    "id": "q8",
+    "prompt": "What’s your noise tolerance?",
+    "options": [
+      { "id": "o1", "label": "Prefer a quiet dog", "weight": 3 },
+      { "id": "o2", "label": "Some barking is fine", "weight": 2 },
+      { "id": "o3", "label": "I don’t mind frequent barking", "weight": 1 }
+    ]
+  },
+  {
+    "id": "q9",
+    "prompt": "Do you need a dog that can live in an apartment?",
+    "options": [
+      { "id": "o1", "label": "Yes, must be apartment-friendly", "weight": 3 },
+      { "id": "o2", "label": "Preferably, but not required", "weight": 2 },
+      { "id": "o3", "label": "No, I have a yard", "weight": 1 }
+    ]
+  },
+  {
+    "id": "q10",
+    "prompt": "What kind of energy level do you prefer?",
+    "options": [
+      { "id": "o1", "label": "High — always ready to play or run", "weight": 3 },
+      { "id": "o2", "label": "Moderate — likes activity but also relaxes", "weight": 2 },
+      { "id": "o3", "label": "Low — couch companion", "weight": 1 }
+    ]
+  },
+  {
+    "id": "q11",
+    "prompt": "Would you like your dog to be protective?",
+    "options": [
+      { "id": "o1", "label": "Yes, a natural guard dog", "weight": 3 },
+      { "id": "o2", "label": "Somewhat protective", "weight": 2 },
+      { "id": "o3", "label": "No preference", "weight": 1 }
+    ]
+  },
+  {
+    "id": "q12",
+    "prompt": "How tolerant should your dog be of other animals?",
+    "options": [
+      { "id": "o1", "label": "Very tolerant — I have other pets", "weight": 3 },
+      { "id": "o2", "label": "Somewhat tolerant", "weight": 2 },
+      { "id": "o3", "label": "No preference", "weight": 1 }
+    ]
+  }
+]

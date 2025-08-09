@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s1",
+    "name": "Shaded Pines Dog Park",
+    "type": "park",
+    "lat": 40.73,
+    "lng": -73.98,
+    "tags": ["dog_park", "shaded"],
+    "amenities": ["Water", "Fence"]
+  },
+  {
+    "id": "s2",
+    "name": "Willow & Bean Café",
+    "type": "cafe",
+    "lat": 40.72,
+    "lng": -73.99,
+    "tags": ["outdoor_seating", "low_noise"],
+    "amenities": ["Water Bowls"]
+  },
+  {
+    "id": "s3",
+    "name": "Riverside Trail Loop",
+    "type": "trail",
+    "lat": 40.74,
+    "lng": -73.97,
+    "tags": ["scenic"],
+    "amenities": ["Restrooms"]
+  },
+  {
+    "id": "s4",
+    "name": "Point Isabel Regional Shoreline",
+    "type": "park",
+    "lat": 37.9002,
+    "lng": -122.3252,
+    "tags": ["off_leash", "waterfront", "views"],
+    "amenities": ["Trails", "Restrooms", "Dog Wash"]
+  },
+  {
+    "id": "s5",
+    "name": "Shelby Farms Park",
+    "type": "park",
+    "lat": 35.1388,
+    "lng": -89.8325,
+    "tags": ["large_park", "lake", "trails"],
+    "amenities": ["Water", "Restrooms", "Parking"]
+  },
+  {
+    "id": "s6",
+    "name": "Tompkins Square Park Dog Run",
+    "type": "park",
+    "lat": 40.72639,
+    "lng": -73.98167,
+    "tags": ["dog_run", "urban", "events"],
+    "amenities": ["Water", "Fence", "Benches"]
+  },
+  {
+    "id": "s7",
+    "name": "Pilgrim Bark Park",
+    "type": "park",
+    "lat": 42.049,
+    "lng": -70.1856,
+    "tags": ["artistic", "gated", "community"],
+    "amenities": ["Water", "Fence", "Benches"]
+  },
+  {
+    "id": "s8",
+    "name": "Dog Mountain",
+    "type": "trail",
+    "lat": 44.43528,
+    "lng": -71.98139,
+    "tags": ["hiking", "art", "chapel"],
+    "amenities": ["Trails", "Parking", "Picnic"]
+  }
+]

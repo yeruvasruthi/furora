@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --easing: cubic-bezier(0.4, 0, 0.2, 1); }
+
+.card { @apply bg-white rounded-card shadow-soft border border-black/5 transition-shadow; }
+:focus-visible { outline: 2px solid #D8C3A5; outline-offset: 2px; }
+
+/* soft, minimal “aurora” background for the hero */
+.hero-bg {
+  background:
+    radial-gradient(800px 300px at 50% 0%, rgba(216,195,165,0.16), transparent 60%),
+    radial-gradient(600px 240px at 10% 20%, rgba(124,138,106,0.08), transparent 55%),
+    radial-gradient(600px 240px at 90% 25%, rgba(201,139,107,0.08), transparent 55%);
+}
+/* Map marker animations */
+@keyframes pawBounce {
+    0% { transform: translateY(-8px) scale(0.8); opacity: 0; }
+    60% { transform: translateY(0) scale(1.08); opacity: 1; }
+    100% { transform: translateY(0) scale(1); }
+  }
+  .paw-marker { will-change: transform, opacity; }
+  .paw-selected { animation: pawBounce 450ms ease-out; }
+  
+  /* Soft shadow helper (used across cards/map) */
+  .shadow-soft { box-shadow: 0 10px 30px rgba(0,0,0,.06); }
+  
+  /* Toast */
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(4px);} to { opacity: 1; transform: translateY(0);} }
+  .animate-fadeIn { animation: fadeIn 200ms ease-out; }
+  

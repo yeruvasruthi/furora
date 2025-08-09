@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "name": "Sunny",
+    "species": "dog",
+    "breed": "Golden Retriever",
+    "score": 8,
+    "traits": [
+      "friendly",
+      "active",
+      "good with kids"
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Miso",
+    "species": "cat",
+    "breed": "British Shorthair",
+    "score": 5,
+    "traits": [
+      "calm",
+      "independent",
+      "low shedding"
+    ]
+  },
+  {
+    "id": "p3",
+    "name": "Bolt",
+    "species": "dog",
+    "breed": "Border Collie",
+    "score": 9,
+    "traits": [
+      "very active",
+      "smart",
+      "needs training"
+    ]
+  }
+]

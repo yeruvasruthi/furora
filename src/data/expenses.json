@@ -1,0 +1,23 @@
+[
+  {
+    "id": "e1",
+    "petId": "p1",
+    "amount": 35,
+    "category": "Food",
+    "date": "2025-08-03"
+  },
+  {
+    "id": "e2",
+    "petId": "p2",
+    "amount": 22,
+    "category": "Litter",
+    "date": "2025-08-02"
+  },
+  {
+    "id": "e3",
+    "petId": "p1",
+    "amount": 90,
+    "category": "Vet",
+    "date": "2025-08-01"
+  }
+]
