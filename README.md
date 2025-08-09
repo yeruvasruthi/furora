@@ -1,5 +1,5 @@
 
-# Furora — Minimal, warm, all‑in‑one pet app (Slim Starter)
+# Furora — Minimal, warm, all‑in‑one pet app 
 
 **Explore · Match · Care** — React + TypeScript + Vite with Tailwind, Router, Zustand.
 
