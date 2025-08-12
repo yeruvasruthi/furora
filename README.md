@@ -116,5 +116,4 @@ Images will be created under `public/images`.
 
 - Add photo upload support for spots and pets.
 
-## License
-This project is licensed under the MIT License.
+
