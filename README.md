@@ -102,7 +102,7 @@ Images will be created under `public/images`.
 <img width="1456" height="777" alt="Screenshot 2025-08-09 at 2 05 17 AM" src="https://github.com/user-attachments/assets/080f8774-565b-4bd1-97ec-680f38f3a17a" />
 
 ## Live Website
-- This project is now live to test at your own pace at 'https://furora.netlify.app/about'
+- This project is now live to test at your own pace at 'https://furora.netlify.app/'
   
 ## Future Plans  
 
