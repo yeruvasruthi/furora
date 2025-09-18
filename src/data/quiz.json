@@ -88,23 +88,5 @@
       { "id": "o2", "label": "Moderate — likes activity but also relaxes", "weight": 2 },
       { "id": "o3", "label": "Low — couch companion", "weight": 1 }
     ]
-  },
-  {
-    "id": "q11",
-    "prompt": "Would you like your dog to be protective?",
-    "options": [
-      { "id": "o1", "label": "Yes, a natural guard dog", "weight": 3 },
-      { "id": "o2", "label": "Somewhat protective", "weight": 2 },
-      { "id": "o3", "label": "No preference", "weight": 1 }
-    ]
-  },
-  {
-    "id": "q12",
-    "prompt": "How tolerant should your dog be of other animals?",
-    "options": [
-      { "id": "o1", "label": "Very tolerant — I have other pets", "weight": 3 },
-      { "id": "o2", "label": "Somewhat tolerant", "weight": 2 },
-      { "id": "o3", "label": "No preference", "weight": 1 }
-    ]
   }
 ]
