@@ -35,7 +35,8 @@ export default function MatchComponent() {
       try {
         setLoading(true)
         const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:8080"
-        const res = await fetch("http://localhost:8080/api/pets?type=dog&limit=50")
+        const res = await fetch(`${API_BASE}/api/pets?type=dog&limit=50`)
+        
         if (!res.ok) throw new Error("Failed to fetch pets")
         const data = await res.json()
         const normalized = (data.animals || []).map((p: any) => ({
